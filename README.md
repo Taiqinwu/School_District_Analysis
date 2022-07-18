@@ -18,7 +18,7 @@ After we completed the analysis for Maria. The school board has notified Maria a
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/107168891/179451975-2dc0cfcf-b2b8-42b1-ba94-e221b7d998ee.png">
 
 #### Bottom Five Performing Schools
-per_school_summary_df
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/107168891/179452371-c55cdbb9-0fa7-46c1-bd57-cb7a41bf00db.png">
 
 #### Average Math Scores by Grade & School
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/107168891/179452020-78451ed3-9e16-466a-b82f-d2d6ce7ab023.png">
