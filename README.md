@@ -9,12 +9,17 @@ After we completed the analysis for Maria. The school board has notified Maria a
 
 ## Challenge Results
 
-#### School Summary
+### School Summary
+
+#### School Summary Old
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/107168891/179451713-a84cc93a-cc8e-4fdb-bb76-d2abf0f9e8f8.png">
 
+#### School Summary New
+* Once we the math and reading scores for Thomas High School with NaNs, we noted the scores has been changed. 
 <img width="1001" alt="image" src="https://user-images.githubusercontent.com/107168891/179451935-00e2af3f-b6bc-4228-84fd-d0e8642ec28f.png">
 
 #### Top Five Performing Schools
+* Noted Thomas High School has been dropped out of Top 5.
 <img width="996" alt="image" src="https://user-images.githubusercontent.com/107168891/179451975-2dc0cfcf-b2b8-42b1-ba94-e221b7d998ee.png">
 
 #### Bottom Five Performing Schools
