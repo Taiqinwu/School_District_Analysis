@@ -13,10 +13,11 @@ After we completed the analysis for Maria. The school board has notified Maria a
 
 #### How is the district summary affected?
 * We can see that there was not much changes in the district summary, % passing math, % passing reading, and % overall passing have changes that is less than 1%. 
-Old
+
+* Old
 <img width="931" alt="image" src="https://user-images.githubusercontent.com/107168891/179457973-463a7297-5239-4b96-8324-ea0ccbeabbf5.png">
 
-New
+* New
 <img width="933" alt="image" src="https://user-images.githubusercontent.com/107168891/179457847-82c51764-2884-4746-9aac-9e484ac0ca9b.png">
 
 #### School Summary Old
